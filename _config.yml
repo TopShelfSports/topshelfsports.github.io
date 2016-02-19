@@ -1,0 +1,9 @@
+# Site settings
+title: TopShelf Sports
+email: your-email@domain.com
+description: > # Sports league management for busy people.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sports.topshelfapps.us" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
